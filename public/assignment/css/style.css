@@ -1,0 +1,74 @@
+input.form-control {
+    margin-bottom: 5px;
+}
+
+body {
+    padding-top: 36px;
+}
+
+.wbdv-added-margin{
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+}
+
+.text-alignment{
+    text-align: center;
+}
+
+.importantFields {
+    color: red;
+}
+
+.btn {
+    border-radius: 8px; !important;
+}
+
+a{
+    cursor: pointer;
+}
+
+body{
+    overflow-x : hidden;
+}
+
+.wbdv-custom-color {
+	color: white;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.wbdv-margin-if-fixed-header {
+    margin-top: 20px;
+}
+
+.wbdv-margin-if-fixed-footer {
+    margin-bottom: 60px;
+}
+
+.wbdv-no-left-margin {
+    margin-left: 0px;
+
+}
+.wbdv-no-right-margin {
+    margin-right: 0px;
+}
+
+.wbdv-custom-margin-for-widget {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.wbdv-jga-toolbar {
+    position: absolute;
+    right: 15px;
+    background-color: white;
+    padding-left: 4px;
+    padding-bottom: 2px;
+    padding-right: 4px;
+    padding-top: 4px;
+    border-bottom-left-radius: 5px;
+    /*opacity: 0.7;*/
+}
+
